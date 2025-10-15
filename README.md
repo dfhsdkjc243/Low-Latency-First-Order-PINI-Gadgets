@@ -13,7 +13,7 @@ This repository provides the **supplementary materials** for our paper:
 It contains additional **design data, HDL implementations, and verification programs** that support the experimental and theoretical results presented in the paper.  
 The materials include reconstructed circuit descriptions, masked gadget implementations, and automated generation scripts for evaluating PINI-compliant hardware under different randomness and latency constraints.
 
---
+---
 
 ## 📁 Repository Structure
 
